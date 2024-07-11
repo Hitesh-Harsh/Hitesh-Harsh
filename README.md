@@ -20,7 +20,7 @@ I'm a data scientist with a passion for turning data into actionable insights. I
 ![Amazon QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-FF9900?logo=amazon-quicksight&logoColor=white)
 
 ## 📈 Projects
-- **[Student Performance Analysis and Prediction](https://github.com/yourusername/student-performance-analysis):** Analyzed and predicted student performance using various machine learning models.
+- **[Student Performance Analysis and Prediction](https://github.com/Hitesh-Harsh/Student-Performance-Analysis-and-Prediction):** Analyzed and predicted student performance using various machine learning models.
 - **[Algerian Forest Fire Analysis](https://github.com/Hitesh-Harsh/Algerian-Forest-Fire-Analysis.git):** Conducted a comprehensive analysis of forest fires in Algeria and optimized machine learning models using hyperparameter tuning.
 - **[California Housing Analysis](https://github.com/Hitesh-Harsh/California-Housing-Analysis.git):** Worked on Understanding California Housing Data through EDA tactics and worked on creating predictive model for Housing prices.
 
@@ -48,7 +48,7 @@ I'm currently expanding my knowledge in deep learning and natural language proce
 
 ## 💬 Languages
 ![English](https://img.shields.io/badge/English-fluent-brightgreen)
-![Hindi](https://img.shields.io/badge/English-fluent-brightgreen)
+![Hindi](https://img.shields.io/badge/Hindi-fluent-blue)
 
 ---
 ⭐️ From [Hitesh Harsh](https://github.com/Hitesh-Harsh)
