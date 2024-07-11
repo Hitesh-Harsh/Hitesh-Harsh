@@ -38,7 +38,7 @@ I'm currently expanding my knowledge in deep learning and natural language proce
 
 ## 💼 Professional Experience
 
-**Data Analyst and Engineer at Bhumio**
+**Data Analyst and Engineer at Bhumio, Inc.**
 - Devised data sanitization strategies for large-scale real estate databases, boosting accuracy by 35% using PostgreSQL with Window functions and triggers (CTEs).
 - Designed and managed data warehousing solutions using Amazon S3 and implemented ETL processes for efficient data flow and integrity.
 - Designed and implemented KPI scorecards, producing actionable reports for clients, and maintained automated reports and dashboards using SQL, Python, and Amazon QuickSight.
