@@ -21,19 +21,20 @@ I'm a data scientist with a passion for turning data into actionable insights. I
 
 ## 📈 Projects
 - **[Student Performance Analysis and Prediction](https://github.com/yourusername/student-performance-analysis):** Analyzed and predicted student performance using various machine learning models.
-- **[Customer Segmentation](https://github.com/yourusername/customer-segmentation):** Applied clustering techniques to segment customers based on purchasing behavior.
-- **[Sales Forecasting](https://github.com/yourusername/sales-forecasting):** Built a time series model to forecast future sales for a retail store.
+- **[Algerian Forest Fire Analysis](https://github.com/Hitesh-Harsh/Algerian-Forest-Fire-Analysis.git):** Conducted a comprehensive analysis of forest fires in Algeria and optimized machine learning models using hyperparameter tuning.
+- **[California Housing Analysis](https://github.com/Hitesh-Harsh/California-Housing-Analysis.git):** Worked on Understanding California Housing Data through EDA tactics and worked on creating predictive model for Housing prices.
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-harsh/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshharsh2001@gmail.com)
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in deep learning and natural language processing.
 
 ## 🏆 Achievements
-- Completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
-- Published a paper on [Machine Learning Techniques for Predictive Analytics](https://linktopaper.com).
+- Completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MSR5U66XCEJE).
+- Completed the [Machine Learning Certification](https://www.coursera.org/account/accomplishments/verify/25T82RRPS429)
+- Completed the [Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/V93K76TVZWZP)
 
 ## 💼 Professional Experience
 
@@ -47,9 +48,8 @@ I'm currently expanding my knowledge in deep learning and natural language proce
 
 ## 💬 Languages
 ![English](https://img.shields.io/badge/English-fluent-brightgreen)
-![Spanish](https://img.shields.io/badge/Spanish-conversational-yellow)
-![French](https://img.shields.io/badge/French-basic-red)
+![Hindi](https://img.shields.io/badge/English-fluent-brightgreen)
 
 ---
-⭐️ From [Hitesh Harsh](https://github.com/yourusername)
+⭐️ From [Hitesh Harsh](https://github.com/Hitesh-Harsh)
 
