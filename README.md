@@ -2,6 +2,23 @@
 
 ## 🚀 About Me
 I'm a data scientist with a passion for turning data into actionable insights. I have experience in various aspects of data science, including data analysis, machine learning, and data visualization.
+## 🎓 Education
+- **BSc (Hons.) Computer Science with Minor in Statistics**  
+  Delhi University  
+  *Completed in First Division*
+
+  **Subjects Studied:**
+  - Data Structures and Algorithms (DSA)
+  - Python Programming
+  - Computer System Architecture (CSA)
+  - Set Theory
+  - Applied Statistics
+  - Theory of Computation
+  - Computer Networks
+  - Operating Systems
+  - Database Management Systems (DBMS)
+  - Artificial Intelligence (AI)
+  - Machine Learning
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
