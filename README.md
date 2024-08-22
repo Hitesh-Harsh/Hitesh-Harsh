@@ -30,7 +30,7 @@ I'm a data scientist with a passion for turning data into actionable insights. I
 ## 📈 Projects
 - **[Student Performance Analysis and Prediction](https://github.com/Hitesh-Harsh/Student-Performance-Analysis-and-Prediction):** Analyzed and predicted student performance using various machine learning models.
 - **[Algerian Forest Fire Analysis](https://github.com/Hitesh-Harsh/Algerian-Forest-Fire-Analysis.git):** Conducted a comprehensive analysis of forest fires in Algeria and optimized machine learning models using hyperparameter tuning.
-- **[California Housing Analysis](https://github.com/Hitesh-Harsh/California-Housing-Analysis.git):** Worked on Understanding California Housing Data through EDA tactics and worked on creating predictive model for Housing prices.
+- **[Credir Card Fraud Detection](https://github.com/Hitesh-Harsh/Credit-Card-Fraud-Detection-for-Bank):** Credit Card Fraud Detection project using LSTM RNN on synthetically generated data, covering data preprocessing, upsampling with SMOTE, and model training. 
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-harsh/)
